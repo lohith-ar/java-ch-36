@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-36 - 
+## Boilerplate Repository - Challenge-36 - Text Analyzer - Part-2
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
