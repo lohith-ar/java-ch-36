@@ -71,7 +71,7 @@ Now design a class called MusicCatalog that can be used to create a doubly linke
 
 Write a method that can be used to read a music catalog file and create a music catalog in the form of a doubly linked list in memory. If the operation is successful, the method should return a true value back to the calling program; else it should return a false value. 
 
-boolean readMusicCatalog(String filename);
+    boolean readMusicCatalog(String filename);
 
 Note that it will be beneficial to sort the music items as they are added to the list. You can sort them on the basis of the Artist first (alphabetical order) and then based on the Year of Release (ascending order).
 
